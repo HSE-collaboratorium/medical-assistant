@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Base.Theme.Medicalassistant" parent="Theme.Material3.DayNight.NoActionBar">
@@ -6,4 +7,10 @@
     </style>
 
     <style name="Theme.Medicalassistant" parent="Base.Theme.Medicalassistant" />
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MedicalAssistant" parent="android:Theme.Material.Light.NoActionBar" />
+>>>>>>> f9de080aa9ad2e4685647138c6cf71a818462d6d
 </resources>

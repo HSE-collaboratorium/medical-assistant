@@ -19,6 +19,11 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "medical-assistant"
 include(":app")
  
+=======
+rootProject.name = "MedicalAssistant"
+include(":app")
+>>>>>>> f9de080aa9ad2e4685647138c6cf71a818462d6d

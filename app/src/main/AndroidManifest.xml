@@ -10,11 +10,21 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+<<<<<<< HEAD
         android:theme="@style/Theme.Medicalassistant"
         tools:targetApi="31">
         <activity
             android:name=".MainActivity"
             android:exported="true">
+=======
+        android:theme="@style/Theme.MedicalAssistant"
+        tools:targetApi="31">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.MedicalAssistant">
+>>>>>>> f9de080aa9ad2e4685647138c6cf71a818462d6d
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
