@@ -17,3 +17,4 @@ class MainActivity : AppCompatActivity() {
             insets
         }
     }
+}
